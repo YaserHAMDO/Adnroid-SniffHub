@@ -8,7 +8,6 @@ Unlike traditional dating apps focused only on profile browsing, SniffHub enable
 
 Built as a scalable mobile product, SniffHub integrates modern Android development practices, real-time communication, safety systems, cloud infrastructure, and monetization.
 
---
 
 ## 🚀 Core Features
 
@@ -19,9 +18,8 @@ Built as a scalable mobile product, SniffHub integrates modern Android developme
   - Personal info, interests, languages, job, hometown
   - Media upload (up to 6 images/videos)
   - Built-in image editor (crop, rotate, filters)
----
 
-## 💘 Dating Mode (Swipe Discovery)
+### 💘 Dating Mode (Swipe Discovery)
 - Swipe-based matching (Like / Dislike / Super Like)
 - Rewind last swipe
 - Boost system (time-based visibility increase)
@@ -31,7 +29,6 @@ Built as a scalable mobile product, SniffHub integrates modern Android developme
 - Premium gating:
   - Only premium subscribers can see who liked them.
 
----
 
 ### 🎉 Hub Mode — Event-Centered Social Discovery
 - Discover nearby festivals, clubs, venues, and events
@@ -41,7 +38,7 @@ Built as a scalable mobile product, SniffHub integrates modern Android developme
 - Stage + timetable scheduling for large events
 - Event attendee discovery + presence visibility
 - Instagram-style attendee profiles with direct chat entry
----
+
 
 ### 💬 Real-Time Messaging & Communication
 - Match-based + event-based chat system
@@ -53,7 +50,6 @@ Built as a scalable mobile product, SniffHub integrates modern Android developme
 - Built-in message translation (multi-language chat)
 - Report/block/delete match tools
 
----
 
 ### 📞 Audio & Video Calling
 - Real-time audio/video calling via **Twilio Video (WebRTC)**
@@ -61,8 +57,6 @@ Built as a scalable mobile product, SniffHub integrates modern Android developme
 - Dedicated call UI with accept/decline flow
 
 
-
----
 
 ### 👤 Profile & Account Management
 - Profile completion indicator with onboarding progress tracking
@@ -77,7 +71,6 @@ Built as a scalable mobile product, SniffHub integrates modern Android developme
   - Account management: delete account, logout, support & feedback
   
 
----
 
 ### 🛡 Trust, Safety & Privacy
 SniffHub includes production-grade safety systems designed for real-world social platforms:
@@ -90,8 +83,6 @@ SniffHub includes production-grade safety systems designed for real-world social
 - Reporting and blocking across chats, event feeds, and user profiles
 
   
----
-
 ### 💳 Monetization & Premium System
 Hybrid monetization model with subscriptions + consumables:
 - Subscription tiers: Starter / Pro / Ultimate
@@ -106,7 +97,6 @@ Hybrid monetization model with subscriptions + consumables:
   - Direct Messages
 - Full integration with **Google Play Billing**
   
----
 
 ### 🔔 Notifications & Engagement
 - Firebase Cloud Messaging (push notifications)
@@ -120,7 +110,6 @@ Hybrid monetization model with subscriptions + consumables:
 - Play Integrity API + in-app update readiness for production release protection
 
   
----
 
 ## 🛠 Tech Stack
 
@@ -145,7 +134,6 @@ Hybrid monetization model with subscriptions + consumables:
 | Security            | Play Integrity API |
 | Testing             | JUnit + Espresso |
 
----
 
 
 ## 👤 Role & Ownership
@@ -156,7 +144,7 @@ SniffHub was developed as a live commercial product where I served as:
     development → publishing → updates → maintenance
   - Contributor to backend feature updates and API enhancements
 
----
+
 
 ### ⚙ Engineering Highlights
 - Built a fully custom swipe-card stack engine from scratch  
@@ -171,7 +159,6 @@ SniffHub was developed as a live commercial product where I served as:
 SniffHub is live on Google Play and actively maintained with continuous feature updates, performance improvements, and production monitoring.
 
 
----
 
 
 ## 📸 Screenshots
