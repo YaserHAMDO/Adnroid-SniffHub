@@ -166,11 +166,34 @@ Download the app from Google Play: [SniffHub](https://play.google.com/store/apps
 ## 📸 Screenshots
 
 <p align="center">
-  <img alt="l" src="https://github.com/user-attachments/assets/bdb97e87-7d56-493e-ad3e-5ad8a92f40ed" width="30%">
+  <img alt="l" src="https://github.com/user-attachments/assets/93af43b8-fedf-4ffb-9fb4-173ffcf57075" width="30%">
    <img width="3%">
-  <img alt="m" src="https://github.com/user-attachments/assets/e0da7b30-121d-48e8-8424-d6b281825eed" width="30%">
+  <img alt="m" src="https://github.com/user-attachments/assets/d2eace73-32df-4d66-95f5-a29601f14d31" width="30%">
 </p>
 
+
+<p align="center">
+  <img alt="l" src="https://github.com/user-attachments/assets/27afd963-1ddb-45ce-8cbd-f8d299452dc7" width="30%">
+   <img width="3%">
+  <img alt="m" src="https://github.com/user-attachments/assets/6c4d5339-7843-4fbf-9e4a-560482a6cc06" width="30%">
+</p>
+<p align="center">
+  <img alt="l" src="https://github.com/user-attachments/assets/6d77e2da-7a0c-4cba-8a67-5636daa83deb" width="30%">
+   <img width="3%">
+  <img alt="m" src="https://github.com/user-attachments/assets/d05ce5e7-4840-46e1-ae97-9bc19293f9d4" width="30%">
+</p>
+<p align="center">
+  <img alt="l" src="https://github.com/user-attachments/assets/011bbd9b-c3f3-40ec-9f7a-cc8b3e210953" width="30%">
+</p>
+
+<p align="center">
+  <img alt="l" src="https://github.com/user-attachments/assets/029e2a45-de0f-4607-ab4d-0f6ab061070d" width="30%">
+</p>
+
+
+<p align="center">
+  <img alt="l" src="https://github.com/user-attachments/assets/24b1da94-7f9e-48ba-acd5-2bc752ec4c06" width="30%">
+</p>
 
 
 
