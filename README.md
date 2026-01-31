@@ -8,20 +8,20 @@ Unlike traditional dating apps focused only on profile browsing, SniffHub enable
 
 Built as a scalable mobile product, SniffHub integrates modern Android development practices, real-time communication, safety systems, cloud infrastructure, and monetization.
 
----
+--
 
 ## 🚀 Core Features
 
 ### 🔐 Authentication & Onboarding
 - Firebase Authentication (Google + Email login)
 - Deep onboarding flow (13-step profile builder)
-- Rich profile setup::
+- Rich profile setup:
   - Personal info, interests, languages, job, hometown
   - Media upload (up to 6 images/videos)
   - Built-in image editor (crop, rotate, filters)
 ---
 
-### 💘 Dating Mode (Swipe Discovery)
+## 💘 Dating Mode (Swipe Discovery)
 - Swipe-based matching (Like / Dislike / Super Like)
 - Rewind last swipe
 - Boost system (time-based visibility increase)
@@ -29,7 +29,7 @@ Built as a scalable mobile product, SniffHub integrates modern Android developme
   - Age & distance range
   - Interests, gender, hometown, looking-for options
 - Premium gating:
-  - Only premium subscribers can see who like them.
+  - Only premium subscribers can see who liked them.
 
 ---
 
@@ -93,36 +93,31 @@ SniffHub includes production-grade safety systems designed for real-world social
 ---
 
 ### 💳 Monetization & Premium System
-- Subscription tiers:
-  - Starter / Pro / Ultimate
-- Consumable packs:
-  - Boosts
-  - Super Likes
-  - Direct Messages
-- Premium feature access control + credit system
-  
----
-
-### 🔔 Notifications + App Hardening
-- Firebase Cloud Messaging (push notifications)
-- Remote Config for controlling behavior dynamically
-- Crash reporting + analytics support
-- Play Integrity + in-app update readiness (production hardening)
-- Hybrid monetization model with subscriptions + consumables:
-- 
+Hybrid monetization model with subscriptions + consumables:
 - Subscription tiers: Starter / Pro / Ultimate
 - Premium access control:
   - Unlimited swipes
   - See who liked you
   - Attend events
   - Advanced filtering
-    
 - Consumable credit packs:
   - Boosts
   - Super Likes
   - Direct Messages
+- Full integration with **Google Play Billing**
+  
+---
 
-- Full integration with Google Play Billing
+### 🔔 Notifications & Engagement
+- Firebase Cloud Messaging (push notifications)
+- Smart alerts for matches, chats, boosts, and event activity
+- Event reminders and timetable-based notifications
+
+  
+### ⚙ App Monitoring & Production Hardening
+- Firebase Remote Config for dynamic feature control
+- Firebase Analytics + Crashlytics for monitoring and stability
+- Play Integrity API + in-app update readiness for production release protection
 
   
 ---
@@ -163,7 +158,14 @@ SniffHub was developed as a live commercial product where I served as:
 
 ---
 
+### ⚙ Engineering Highlights
+- Built a fully custom swipe-card stack engine from scratch  
+  (gesture + scroll + rewind animations in native Java)
+- Real-time matchmaking + messaging infrastructure
+- Scalable backend integration with AWS + Node.js APIs
 
+
+  
 ## 📌 Status
 
 SniffHub is live on Google Play and actively maintained with continuous feature updates, performance improvements, and production monitoring.
@@ -178,7 +180,5 @@ SniffHub is live on Google Play and actively maintained with continuous feature 
 
 ## Download
 
-Download the app from Google Play: [Dating app](https://play.google.com/store/apps/details?id=com.snifferapp.api&utm_source=website&utm_medium=social&utm_campaign=adsfordownloadandroidapp)
+Download the app from Google Play: [SniffHub](https://play.google.com/store/apps/details?id=com.snifferapp.api&utm_source=website&utm_medium=social&utm_campaign=adsfordownloadandroidapp)
 
-
-## Screenshots
